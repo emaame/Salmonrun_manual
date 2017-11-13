@@ -1,3 +1,10 @@
-# My Awesome Book
+# サーモンラン攻略集
 
-This file file serves as your book's preface, a great place to describe your book's content and ideas.
+本書はスプラトゥーン2の「サーモンラン」の攻略をまとめるものである。
+
+2017/11/14 現在の筆者の Personal Best は野良での「たつじん730」である。
+
+ガチ勢からすると物足りない箇所はご指摘いただければ幸い。
+
+
+
