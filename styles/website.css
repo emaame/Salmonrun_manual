@@ -1,0 +1,25 @@
+dt,dd{
+	color:#444;
+	font-size:1.4em;
+	margin:0 0 10px 0;
+	padding-left:4.5em;
+	line-height:1.5em;
+	background:none no-repeat left top;
+	min-width: 40px;
+	min-height:55px;
+}
+
+dt.question {
+	background: url(iamges/nc112462_point.png) no-repeat;
+	background-position: 0 10px;
+	border-top: 1px dashed #c4c4c4;
+	padding-top: 15px;
+	margin-top:-1px;
+}
+dd.answer {
+	background: url(iamges/nc112462_insight.png) no-repeat;
+	overflow: hidden;
+}
+.donot {
+	margin:0 0 10px 0;
+}
