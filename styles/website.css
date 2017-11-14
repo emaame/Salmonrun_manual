@@ -20,6 +20,10 @@ dd.answer {
 	background: url(iamges/nc112462_insight.png) no-repeat;
 	overflow: hidden;
 }
-.donot {
-	margin:0 0 10px 0;
+dt.donot {
+	background: url(iamges/nc112462_angry.png) no-repeat;
+	background-position: 0 10px;
+	border-top: 1px dashed #c4c4c4;
+	padding-top: 15px;
+	margin-top:-1px;
 }
