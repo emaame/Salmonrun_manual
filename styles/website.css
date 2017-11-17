@@ -1,13 +1,13 @@
 dt,dd{
 	color:#444;
 	font-size:1.4em;
-	margin:0 0 10px 0;
+	margin:0 0 7em 0;
 	padding-left:4.5em;
 	line-height:1.5em;
 	background: none no-repeat left top;
-	background-size: 3.0em 3.5em;
+	background-size: 6em 7em !important;
 	min-width: 40px;
-	min-height: 3.5em;
+	min-height: 7em;
 }
 
 dt.question {
