@@ -1,28 +1,37 @@
-dt,dd{
+.markdown-section dl dt,
+.markdown-section dl dd{
 	color:#444;
-	font-size:1.4em;
-	margin:0 0.5em;
+	margin:0.5em;
 	padding-left:7.5em;
 	line-height:1.5em;
-	background: none no-repeat left top;
 	background-size: 6em 7em !important;
-	min-width: 40px;
 	min-height: 7em;
 }
 
-dt.question {
-	background: url(../images/nc112462_point.png) no-repeat;
-	border-top: 1px dashed #c4c4c4;
-	padding-top: 15px;
-	margin-top:-1px;
-}
-dd.answer {
-	background: url(../images/nc112462_insight.png) no-repeat;
+.markdown-section dl dd.answer {
+	background: url(../images/nc112462_insight.png) no-repeat left top;
 	overflow: hidden;
+	margin-left:2.5em;
 }
-dt.donot {
-	background: url(../images/nc112462_angry.png) no-repeat;
-	border-top: 1px dashed #c4c4c4;
+.markdown-section dl dt.donot, 
+.markdown-section dl dt.question {
+	border-bottom: 1px dashed #c4c4c4;
+	padding-bottom: 2px;
 	padding-top: 15px;
-	margin-top:-1px;
+}
+.markdown-section dl dt.question {
+	background: url(../images/nc112462_point.png) no-repeat;
+	font-size: 110%;
+	position: relative;
+	height: 7em;
+}
+.markdown-section dl dt.question p {
+	position: absolute;
+	bottom: 0;
+}
+.markdown-section dl dt.donot {
+	background: url(../images/nc112462_angry.png) no-repeat;
+}
+.markdown-section dl strong {
+	color: red;
 }

@@ -1,0 +1,26 @@
+{
+  "name": "salmonrun_manual",
+  "version": "1.0.0",
+  "description": "本書はスプラトゥーン2の「サーモンラン」の攻略をまとめるものである。",
+  "main": "index.js",
+  "scripts": {
+    "init": "gitbook init",
+    "start": "gitbook serve",
+    "build": "gitbook build",
+    "publish": "gh-pages -d _book -m 'Auto publish book'",
+    "deploy": "npm run build && npm run publish"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/emaame/Salmonrun_manual.git"
+  },
+  "author": "ema",
+  "license": "CC-BY-NC-SA-4.0",
+  "bugs": {
+    "url": "https://github.com/emaame/Salmonrun_manual/issues"
+  },
+  "homepage": "https://github.com/emaame/Salmonrun_manual#readme",
+  "dependencies": {
+    "gitbook-cli": "^2.3.2"
+  }
+}

@@ -1,26 +1,46 @@
 # オオモノ別対処法
 
-この章ではオオモノ別の対処法を扱う。「こうするべき」のみならず、「何故そうするのか？」に主眼を置いた。
+「こうするべき」ではく「何故そうするのか？」を説明します。
+
+![モグラ・テッパンを引きつける理由](images/guide.png)
 
 ## モグラ
 
 **金イクラの主要な供給源。**
 
 <dl>
-	<dt class="question">対処方法：<strong>コンテナ付近まで誘導</strong>して倒そう！</dt>
+	<dt class="question">
+		<p><strong>コンテナ付近まで誘導</strong>して倒そう！</p>
+	</dt>
 	<dd class="answer">
 		<p><strong>理由</strong></p>
 		<ul>
 			<li>一人で容易に対処可能。</li>
-			<li><strong>コンテナまでの2人分の移動時間とインクを節約できる。</strong></li>
+			<li><strong>コンテナから前線までの2人分の移動時間とインクを節約できる。</strong></li>
+			<li>前線で倒してしまうと、イクラを運ぶ回数分の移動時間がロスになる。</li>
 		</ul>
 	</dd>
-	<dt class="donot">やってはいけないこと：モグラはタゲ持ちに任せて、コンテナには戻らないようにしよう！</dt>
-	<dd class="answer"><p><strong>理由</strong>：移動時間とインクの節約が目的なので、雑魚の処理や他のオオモノの処理に移ろう！</p></dd>
-	<dt class="question">ターゲットの決まり方</dt>
-	<dd class="answer"><p>かみつき後に最も近いイカを次のターゲットにする。かみつきに近づき、ターゲットをとったらコンテナに直行する。</p></dd>
-	<dt class="question">知っておくべき事</dt>
-	<dd class="answer"><p><strong>段差を越えられる唯一のオオモノ</strong></p></dd>
+	<dt class="donot">
+		<p><strong>やってはいけないこと</strong></p>
+		<ul>
+			<li>コンテナから遠い位置で倒してマズイクラを作らないようにしよう！</li>
+			<li>モグラはタゲ持ちに任せて、コンテナには戻らないようにしよう！</li>
+		</ul>
+	</dt>
+	<dd class="answer">
+		<p><strong>理由</strong></p>
+		<ul>
+			<li>移動時間とインクの節約が目的なので、雑魚の処理や他のオオモノの処理に移ろう！</li>
+		</ul>
+	</dd>
+	<dt class="question">知っておきたいこと</dt>
+	<dd class="answer">
+		<ul>
+			<li>かみつき後に最も近いイカを次のターゲットにする。かみつきに近づき、ターゲットをとったらコンテナに直行する。</li>
+			<li><strong>段差を越えられる唯一のオオモノ</strong></li>
+			<li><strong>波の音が聞こえたらモグラの接近に注意</strong>（特にキャノンのとき）</li>
+		</ul>
+	</dd>
 </dl>
 
 ## テッパン
