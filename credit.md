@@ -16,11 +16,21 @@
 
 [https://twitter.com/hiro164jda](https://twitter.com/hiro164jda)
 
+[@rayudne75](https://twitter.com/rayudne75 "@rayudne75"), 鮭走情報専さん
+
+[https://twitter.com/rayudne75](https://twitter.com/rayudne75 "@rayudne75")
+
+[@zarame2431](https://twitter.com/zarame2431/), ザラメさん
+
+[https://twitter.com/zarame2431/](https://twitter.com/zarame2431/)
+
+[Splatoon2 - スプラトゥーン2 攻略&検証 Wiki\*](http://wikiwiki.jp/splatoon2mix/)
+
+[http://wikiwiki.jp/splatoon2mix/?%A5%B5%A1%BC%A5%E2%A5%F3%A5%E9%A5%F3](http://wikiwiki.jp/splatoon2mix/?%A5%B5%A1%BC%A5%E2%A5%F3%A5%E9%A5%F3)
+
 # **素材**
 
 スプラトゥーン顔アイコン2, blueberry 様,
 
- [https://commons.nicovideo.jp/material/nc112462](https://commons.nicovideo.jp/material/nc112462)
-
-
+[https://commons.nicovideo.jp/material/nc112462](https://commons.nicovideo.jp/material/nc112462)
 
