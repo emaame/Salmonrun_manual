@@ -28,6 +28,10 @@
 
 [http://wikiwiki.jp/splatoon2mix/?%A5%B5%A1%BC%A5%E2%A5%F3%A5%E9%A5%F3](http://wikiwiki.jp/splatoon2mix/?%A5%B5%A1%BC%A5%E2%A5%F3%A5%E9%A5%F3)
 
+[Salmon Run - InkiPedia](https://splatoonwiki.org/wiki/Salmon_Run "Salmon Run - Inkpedia")
+
+[https://splatoonwiki.org/wiki/Salmon\_Run](https://splatoonwiki.org/wiki/Salmon_Run)
+
 # **素材**
 
 スプラトゥーン顔アイコン2, blueberry 様,
